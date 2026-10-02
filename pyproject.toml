@@ -1,0 +1,36 @@
+[project]
+name = "python-for-java-developers"
+version = "0.1.0"
+description = "Learn Python as a Java developer by building an AI-powered notes assistant, step by step."
+license = "MIT"
+authors = [
+    { name = "rezaarshad", email = "reza67ar@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "anthropic>=1.11.0",
+    "fastapi>=0.142.2",
+    "httpx>=0.28.1",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.3",
+    "pandas>=3.0.6",
+    "pydantic>=2.13.5",
+    "rich>=15.0.0",
+    "sqlalchemy>=2.1.2",
+    "typer>=0.27.2",
+    "uvicorn>=0.54.0",
+]
+
+[tool.uv]
+package = false   # a course repo, not an installable package (the Lesson 16 capstone turns packaging on)
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.4.0",
+    "mypy>=2.4.0",
+    "pytest>=9.1.1",
+    "ruff>=0.16.10",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["lessons"]

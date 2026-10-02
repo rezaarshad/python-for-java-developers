@@ -1,0 +1,61 @@
+id,title,created_at,tags,word_count,pinned
+1,List comprehensions,2026-04-01T12:08,python;java,270,False
+2,Groceries,2026-04-04T09:05,personal;java,7,False
+3,Weekend plans,2026-04-07T12:45,personal,40,False
+4,Book list,2026-04-10T18:17,personal,33,False
+5,Decorators,2026-04-13T13:09,python;personal,368,False
+6,Pandas groupby,2026-04-16T10:22,data,409,False
+7,Book list,2026-04-19T16:34,personal,51,True
+8,Streams vs comprehensions,2026-04-22T18:12,java;data,390,False
+9,Generators,2026-04-25T12:55,python,101,True
+10,Cleaning CSVs,2026-04-28T14:22,data;java,186,False
+11,Pandas groupby,2026-05-01T20:15,data;ai,566,False
+12,Records vs dataclasses,2026-05-04T21:49,java;ai,352,True
+13,pytest fixtures,2026-05-07T10:13,python,294,False
+14,Weekend plans,2026-05-10T19:31,personal,18,False
+15,Streams vs comprehensions,2026-05-13T12:47,java,162,False
+16,Cleaning CSVs,2026-05-16T12:08,data;personal,390,False
+17,List comprehensions,2026-05-19T19:10,python,176,False
+18,Spring vs FastAPI,2026-05-22T15:38,java,414,False
+19,Book list,2026-05-25T20:07,personal;python,48,False
+20,Book list,2026-05-28T13:27,personal;data,12,False
+21,Type hints,2026-05-31T10:55,python;data,539,False
+22,Weekend plans,2026-06-03T14:48,personal,14,False
+23,Groceries,2026-06-06T09:07,personal;data,36,False
+24,NumPy broadcasting,2026-06-09T18:05,data,266,True
+25,Streams vs comprehensions,2026-06-12T19:30,java;ai,151,False
+26,Embeddings intro,2026-06-15T21:46,ai;personal,572,False
+27,Cleaning CSVs,2026-06-18T17:28,data;java,468,True
+28,Prompt engineering,2026-06-21T12:37,ai;llm,587,False
+29,List comprehensions,2026-06-24T09:55,python,89,False
+30,Groceries,2026-06-27T16:13,personal,47,False
+31,Weekend plans,2026-06-30T21:30,personal,20,False
+32,Prompt engineering,2026-07-03T15:26,ai,382,False
+33,Dataclasses,2026-07-06T20:21,python,432,False
+34,Generators,2026-07-09T17:28,python,214,True
+35,Embeddings intro,2026-07-12T16:51,ai;llm,97,False
+36,Groceries,2026-07-15T17:53,personal,46,True
+37,Generators,2026-07-18T16:30,python,436,False
+38,Streams vs comprehensions,2026-07-21T09:24,java,408,False
+39,Records vs dataclasses,2026-07-24T19:45,java,589,False
+40,Embeddings intro,2026-07-27T09:47,ai,575,False
+41,Packaging with uv,2026-07-30T17:05,python;data,78,False
+42,Dataclasses,2026-08-02T10:56,python;data,433,False
+43,Weekend plans,2026-08-05T10:26,personal,44,False
+44,Weekend plans,2026-08-08T12:42,personal,21,False
+45,Embeddings intro,2026-08-11T16:20,ai;llm,327,False
+46,List comprehensions,2026-08-14T10:04,python,596,False
+47,Book list,2026-08-17T10:56,personal,27,False
+48,NumPy broadcasting,2026-08-20T20:19,data,576,False
+49,Groceries,2026-08-23T10:56,personal;data,47,True
+50,Dataclasses,2026-08-26T13:38,python;data,298,False
+51,NumPy broadcasting,2026-08-29T16:16,data;java,537,False
+52,Dataclasses,2026-09-01T09:00,python;personal,303,False
+53,Agents overview,2026-09-04T17:45,ai;llm,472,False
+54,Dataclasses,2026-09-07T17:02,python,172,False
+55,Weekend plans,2026-09-10T11:02,personal,32,False
+56,pytest fixtures,2026-09-13T19:06,python,275,False
+57,Book list,2026-09-16T11:51,personal;ai,20,False
+58,Streams vs comprehensions,2026-09-19T21:59,java,360,False
+59,Embeddings intro,2026-09-22T15:55,ai,130,True
+60,Streams vs comprehensions,2026-09-25T14:19,java,491,False
